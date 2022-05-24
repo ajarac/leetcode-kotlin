@@ -1,4 +1,6 @@
-import main.Solution424
+package sliding_window
+
+import main.sliding_window.Solution424
 import org.junit.jupiter.api.Test
 import kotlin.test.assertEquals
 

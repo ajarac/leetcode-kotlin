@@ -1,4 +1,4 @@
-package main
+package main.sliding_window
 
 class Solution424 {
     fun characterReplacement(s: String, k: Int): Int {

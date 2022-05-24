@@ -1,4 +1,4 @@
-package main
+package main.sliding_window
 
 class Solution567 {
     fun checkInclusion(s1: String, s2: String): Boolean {

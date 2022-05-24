@@ -1,4 +1,6 @@
-import main.Solution567
+package sliding_window
+
+import main.sliding_window.Solution567
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
