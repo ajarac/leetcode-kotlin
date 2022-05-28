@@ -24,6 +24,6 @@ class Solution39 {
         }
 
         backtracking(0, arrayListOf(), 0)
-        return result.toList()
+        return result
     }
 }
